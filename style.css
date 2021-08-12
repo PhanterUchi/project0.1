@@ -1,0 +1,28 @@
+/*vamos a utilizar selectores de tipo*/ 
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+head {
+}
+body {
+    font-family: 'Crimson Text', serif;
+    background-color: #d8d6a4
+}
+h1 {
+    font-family: 'Style Script', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+h2 {
+    font-family: 'Style Script', cursive;
+}
+footer {
+
+}
+img {
+    height: 20px; 
+    width: 20%;
+}
+/*selector de clase*/
+#Abel_pintos_foto {
+    height: 240px; 
+    width: 100%;
+}
