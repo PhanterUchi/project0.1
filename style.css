@@ -6,23 +6,63 @@ body {
     font-family: 'Crimson Text', serif;
     background-color: #d8d6a4
 }
+
 h1 {
     font-family: 'Style Script', cursive;
     text-align: center;
     font-size: 100px;
 }
+iframe{
+    padding-left: 22%;
+    padding-bottom: 5%;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
 h2 {
     font-family: 'Style Script', cursive;
+     text-align: center; 
+     font-size: 50px;
+}
+ul {
+        font-size: 18px;
+}
+ol {
+        font-size: 18px;
 }
 footer {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    font-size: 0px;
+}
+h5 {
+    font-size: 15px;
+    font-family: 'Crimson Text', serif;
 
 }
+h6 {
+    padding-bottom: 0%;
+}
 img {
-    height: 20px; 
-    width: 20%;
+    height: 40px; 
+    width: 40%;
 }
 /*selector de clase*/
 #Abel_pintos_foto {
     height: 240px; 
     width: 100%;
+    filter: grayscale(77%);
+}
+#spotify {
+    height: 80px;
+    width: 40%;
+    padding-left: 30%;
+    filter: sepia(200%);
+}
+#ig {
+    padding-right: 2%;
+}
+#copi {
+    padding-left: 5%;
 }
